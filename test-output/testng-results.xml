@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50013" started-at="2020-02-03T16:30:57 IST" finished-at="2020-02-03T16:31:47 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50013" started-at="2020-02-03T16:30:57 IST" finished-at="2020-02-03T16:31:47 IST">
+      <class name="com.qainfotech.automation.tatok.BasicCourse_Test">
+        <test-method status="PASS" signature="launchwebdriver()[pri:1, instance:com.qainfotech.automation.tatok.BasicCourse_Test@4493d195]" name="launchwebdriver" duration-ms="8019" started-at="2020-02-03T16:30:57 IST" finished-at="2020-02-03T16:31:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchwebdriver -->
+        <test-method status="PASS" signature="LaunchqainfotechVpn()[pri:2, instance:com.qainfotech.automation.tatok.BasicCourse_Test@4493d195]" name="LaunchqainfotechVpn" duration-ms="2332" started-at="2020-02-03T16:31:05 IST" finished-at="2020-02-03T16:31:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchqainfotechVpn -->
+        <test-method status="PASS" signature="Launchtatocurl()[pri:3, instance:com.qainfotech.automation.tatok.BasicCourse_Test@4493d195]" name="Launchtatocurl" duration-ms="6333" started-at="2020-02-03T16:31:07 IST" finished-at="2020-02-03T16:31:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchtatocurl -->
+        <test-method status="PASS" signature="selectBasicCourse()[pri:4, instance:com.qainfotech.automation.tatok.BasicCourse_Test@4493d195]" name="selectBasicCourse" duration-ms="1691" started-at="2020-02-03T16:31:14 IST" finished-at="2020-02-03T16:31:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBasicCourse -->
+        <test-method status="PASS" signature="clickOnGreenBox()[pri:5, instance:com.qainfotech.automation.tatok.BasicCourse_Test@4493d195]" name="clickOnGreenBox" duration-ms="4872" started-at="2020-02-03T16:31:15 IST" finished-at="2020-02-03T16:31:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnGreenBox -->
+        <test-method status="PASS" signature="matchTwoBoxes()[pri:6, instance:com.qainfotech.automation.tatok.BasicCourse_Test@4493d195]" name="matchTwoBoxes" duration-ms="16300" started-at="2020-02-03T16:31:20 IST" finished-at="2020-02-03T16:31:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- matchTwoBoxes -->
+        <test-method status="PASS" signature="dragDropBox()[pri:7, instance:com.qainfotech.automation.tatok.BasicCourse_Test@4493d195]" name="dragDropBox" duration-ms="2607" started-at="2020-02-03T16:31:37 IST" finished-at="2020-02-03T16:31:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragDropBox -->
+        <test-method status="PASS" signature="launchPopUpWindow()[pri:8, instance:com.qainfotech.automation.tatok.BasicCourse_Test@4493d195]" name="launchPopUpWindow" duration-ms="2643" started-at="2020-02-03T16:31:39 IST" finished-at="2020-02-03T16:31:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchPopUpWindow -->
+        <test-method status="PASS" signature="cookieHandling()[pri:9, instance:com.qainfotech.automation.tatok.BasicCourse_Test@4493d195]" name="cookieHandling" duration-ms="5037" started-at="2020-02-03T16:31:42 IST" finished-at="2020-02-03T16:31:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookieHandling -->
+        <test-method status="PASS" signature="verifyEndOfBasicCourse()[pri:10, instance:com.qainfotech.automation.tatok.BasicCourse_Test@4493d195]" name="verifyEndOfBasicCourse" duration-ms="80" started-at="2020-02-03T16:31:47 IST" finished-at="2020-02-03T16:31:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEndOfBasicCourse -->
+      </class> <!-- com.qainfotech.automation.tatok.BasicCourse_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

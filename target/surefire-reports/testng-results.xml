@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-03T16:52:05 IST" name="Suite1" finished-at="2020-02-03T16:53:20 IST" duration-ms="75608">
+    <groups>
+    </groups>
+    <test started-at="2020-02-03T16:52:05 IST" name="Tatoc Automation" finished-at="2020-02-03T16:53:20 IST" duration-ms="75608">
+      <class name="com.qainfotech.automation.tatok.BasicCourse_Test">
+        <test-method signature="launchwebdriver()[pri:1, instance:com.qainfotech.automation.tatok.BasicCourse_Test@53ca01a2]" started-at="2020-02-03T16:52:41 IST" name="launchwebdriver" finished-at="2020-02-03T16:52:44 IST" duration-ms="3017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchwebdriver -->
+        <test-method signature="LaunchqainfotechVpn()[pri:2, instance:com.qainfotech.automation.tatok.BasicCourse_Test@53ca01a2]" started-at="2020-02-03T16:52:44 IST" name="LaunchqainfotechVpn" finished-at="2020-02-03T16:52:47 IST" duration-ms="2270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchqainfotechVpn -->
+        <test-method signature="Launchtatocurl()[pri:3, instance:com.qainfotech.automation.tatok.BasicCourse_Test@53ca01a2]" started-at="2020-02-03T16:52:47 IST" name="Launchtatocurl" finished-at="2020-02-03T16:52:53 IST" duration-ms="6384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchtatocurl -->
+        <test-method signature="selectBasicCourse()[pri:4, instance:com.qainfotech.automation.tatok.BasicCourse_Test@53ca01a2]" started-at="2020-02-03T16:52:53 IST" name="selectBasicCourse" finished-at="2020-02-03T16:52:55 IST" duration-ms="2115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBasicCourse -->
+        <test-method signature="clickOnGreenBox()[pri:5, instance:com.qainfotech.automation.tatok.BasicCourse_Test@53ca01a2]" started-at="2020-02-03T16:52:55 IST" name="clickOnGreenBox" finished-at="2020-02-03T16:52:59 IST" duration-ms="4234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnGreenBox -->
+        <test-method signature="matchTwoBoxes()[pri:6, instance:com.qainfotech.automation.tatok.BasicCourse_Test@53ca01a2]" started-at="2020-02-03T16:52:59 IST" name="matchTwoBoxes" finished-at="2020-02-03T16:53:09 IST" duration-ms="9961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- matchTwoBoxes -->
+        <test-method signature="dragDropBox()[pri:7, instance:com.qainfotech.automation.tatok.BasicCourse_Test@53ca01a2]" started-at="2020-02-03T16:53:09 IST" name="dragDropBox" finished-at="2020-02-03T16:53:10 IST" duration-ms="961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragDropBox -->
+        <test-method signature="launchPopUpWindow()[pri:8, instance:com.qainfotech.automation.tatok.BasicCourse_Test@53ca01a2]" started-at="2020-02-03T16:53:10 IST" name="launchPopUpWindow" finished-at="2020-02-03T16:53:14 IST" duration-ms="3622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchPopUpWindow -->
+        <test-method signature="cookieHandling()[pri:9, instance:com.qainfotech.automation.tatok.BasicCourse_Test@53ca01a2]" started-at="2020-02-03T16:53:14 IST" name="cookieHandling" finished-at="2020-02-03T16:53:20 IST" duration-ms="6563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookieHandling -->
+        <test-method signature="verifyEndOfBasicCourse()[pri:10, instance:com.qainfotech.automation.tatok.BasicCourse_Test@53ca01a2]" started-at="2020-02-03T16:53:20 IST" name="verifyEndOfBasicCourse" finished-at="2020-02-03T16:53:20 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEndOfBasicCourse -->
+      </class> <!-- com.qainfotech.automation.tatok.BasicCourse_Test -->
+      <class name="com.qainfotech.automation.tatok.AdvanceCourse_Test">
+        <test-method signature="launchwebdriver()[pri:1, instance:com.qainfotech.automation.tatok.AdvanceCourse_Test@14ec4505]" started-at="2020-02-03T16:52:05 IST" name="launchwebdriver" finished-at="2020-02-03T16:52:13 IST" duration-ms="7636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchwebdriver -->
+        <test-method signature="LaunchqainfotechVpn()[pri:2, instance:com.qainfotech.automation.tatok.AdvanceCourse_Test@14ec4505]" started-at="2020-02-03T16:52:13 IST" name="LaunchqainfotechVpn" finished-at="2020-02-03T16:52:16 IST" duration-ms="3003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchqainfotechVpn -->
+        <test-method signature="Launchtatocurl()[pri:3, instance:com.qainfotech.automation.tatok.AdvanceCourse_Test@14ec4505]" started-at="2020-02-03T16:52:16 IST" name="Launchtatocurl" finished-at="2020-02-03T16:52:22 IST" duration-ms="6496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchtatocurl -->
+        <test-method signature="clickOnAdvanceCourse()[pri:4, instance:com.qainfotech.automation.tatok.AdvanceCourse_Test@14ec4505]" started-at="2020-02-03T16:52:22 IST" name="clickOnAdvanceCourse" finished-at="2020-02-03T16:52:24 IST" duration-ms="1831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAdvanceCourse -->
+        <test-method signature="mouseHoverToNextButton()[pri:5, instance:com.qainfotech.automation.tatok.AdvanceCourse_Test@14ec4505]" started-at="2020-02-03T16:52:24 IST" name="mouseHoverToNextButton" finished-at="2020-02-03T16:52:27 IST" duration-ms="3134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseHoverToNextButton -->
+        <test-method signature="dataBaseConnection()[pri:6, instance:com.qainfotech.automation.tatok.AdvanceCourse_Test@14ec4505]" started-at="2020-02-03T16:52:27 IST" name="dataBaseConnection" finished-at="2020-02-03T16:52:41 IST" duration-ms="13638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataBaseConnection -->
+        <test-method signature="vedioPlayer()[pri:7, instance:com.qainfotech.automation.tatok.AdvanceCourse_Test@14ec4505]" started-at="2020-02-03T16:52:41 IST" name="vedioPlayer" finished-at="2020-02-03T16:52:41 IST" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vedioPlayer -->
+        <test-method signature="restFul()[pri:8, instance:com.qainfotech.automation.tatok.AdvanceCourse_Test@14ec4505]" started-at="2020-02-03T16:52:41 IST" name="restFul" finished-at="2020-02-03T16:52:41 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restFul -->
+      </class> <!-- com.qainfotech.automation.tatok.AdvanceCourse_Test -->
+    </test> <!-- Tatoc Automation -->
+  </suite> <!-- Suite1 -->
+</testng-results>
